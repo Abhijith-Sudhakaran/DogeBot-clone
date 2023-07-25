@@ -5,7 +5,7 @@ const {
   Presence,
   Mimetype,
   GroupSettingChange,
-} = require("@adiwajshing/baileys");
+} = require("@whiskeysockets/baileys");
 const simple = require("./lib/simple.js");
 const WAConnection = simple.WAConnection(_WAConnection);
 const figlet = require('figlet')
