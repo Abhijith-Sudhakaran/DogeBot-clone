@@ -1,4 +1,4 @@
-// Ć̴͓̘͓͎̇̒r̵̘̺̘͖͍̫̙̲̭̘̓͂͐̓e̸̳̰̬̦͇̥͍̫̰͌̋̑̄͝a̶̧̬̰̠̥̹͚̜͝ţ̸͖̠̫̳̟͕͚̌͗ḛ̴͔̩͍̤̂̈̍͌͂̉̉͛͝͝ͅd̷͈̥͇̈͂̈́̒͛̀̆̌͘͘ ̵̦͖̠͍̖̲̬̎͛̽͑̅̈̆̚͝͠b̸̨̻͉͎̮̭́̂͊̄͝ͅy̴̨̭̌̃̈́̃́͑̽̒͝ͅ ̷̢̝̮̭͎͖̭̍̔͘X̸̢̧̧̣̪̖͖͙̅͗̾̋̓̀̓̕e̵̥̳̯̪̝̻̪͆̏͑o̸͓̤͎̩̓͗̀̽͋͐̇̓̇̚n̵͎̰͍̰̈́̚ 
+// Cloned and Edited lol
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -16,7 +16,7 @@ const fetch = require("node-fetch");
 const moment = require("moment-timezone");
 blocked = [];
 const { color } = require('./lib/color')
-const time2 = moment().tz("Asia/Jakarta").format("HH:mm:ss");
+const time2 = moment().tz("Asia/Kolkata").format("HH:mm:ss");
     if (time2 < "24:59:00") {
       var ucapanWaktu = "Good night";
     }
